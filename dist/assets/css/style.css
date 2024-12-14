@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/*Стили по умолчанию*/
+body {
+    margin: 0px;
+}
+
+/* Blocks */
+.header {
+    width: 100%;
+    padding: 10px;
+    background-color: rosybrown;
+}
+
+.header__title {
+    margin: 0;
+    font-size: 36px;
+    color: #fff;
+}
+
+.btn {
+    padding: 20px;
+    color: #fff;
+}
